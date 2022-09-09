@@ -1,0 +1,1 @@
+﻿global using JonDJones.Net6.StarterKit.Startup;
